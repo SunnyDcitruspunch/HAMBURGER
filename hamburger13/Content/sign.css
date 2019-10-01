@@ -1,0 +1,10 @@
+﻿h3 {
+    font-family: "Montserrat";
+    color: white;
+    animation: flicker 1.5s infinite alternate;
+}
+
+#title h3{
+    color: black;
+    padding: 2rem 3rem 2rem;
+}
